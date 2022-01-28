@@ -1,2 +1,2 @@
 # COMP-593
-# Repository for Labs
+Repository for Labs
